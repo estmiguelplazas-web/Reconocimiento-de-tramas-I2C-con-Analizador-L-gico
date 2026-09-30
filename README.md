@@ -98,16 +98,6 @@ A través de `OLED_demo_menu.py`, se enviaron secuencias de control y datos haci
 
 ---
 
-## Estructura del Repositorio
-
-* `OLED_ADDR_test.py`: Script para probar direcciones fijas y verificar la generación de ACK/NACK.
-* `scan_i2c_addr.py`: Algoritmo de escaneo de direcciones en el bus I2C.
-* `OLED_demo_menu.py`: Menú interactivo de comandos de control para la pantalla OLED.
-* `Informe_I2C_Analizador_Logico.docx`: Documento del informe completo en formato IEEE (dos columnas).
-* `capturas/`: Carpeta con capturas del analizador lógico (Saleae Logic 2) y consola de Thonny.
-
----
-
 ## Desarrollo
 
 - [ ] Capturas Logic 2 
