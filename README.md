@@ -1,4 +1,4 @@
-# Práctica 6 - Reconocimiento de Tramas I2C con Analizador Lógico
+# Reconocimiento de Tramas I2C con Analizador Lógico
 
 ## Autores
 
